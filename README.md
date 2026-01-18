@@ -1,3 +1,3 @@
 # kelepon-disko CV training
 
-My git repo to start my journey as design engineer
+This is a training page for https://roadmap.sh/projects/single-page-cv
